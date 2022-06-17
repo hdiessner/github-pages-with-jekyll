@@ -12,3 +12,6 @@ github_username:  hdiessner
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+baseurl: ""
+url: "http://hdiessner.github.io"
